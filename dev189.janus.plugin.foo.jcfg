@@ -1,0 +1,3 @@
+general: {
+    description = "This is a foo plugin"
+}
